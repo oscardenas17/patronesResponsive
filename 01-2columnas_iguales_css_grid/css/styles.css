@@ -38,6 +38,9 @@ h1 {
     text-transform: uppercase;
 }
 
+
+/** Here**/
+
 @media (min-width: 768px) {
     .dos-columnas {
         display: grid;

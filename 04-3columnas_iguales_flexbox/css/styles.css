@@ -45,6 +45,8 @@ h1 {
     .tres-columnas {
         display: flex;
         justify-content: space-between;
+        flex-wrap: wrap;
+        /* Propiedad para que el contenido no ocupe solo una caja */
     }
     .entrada-blog {
         flex-basis: calc(33.3% - 1rem);
